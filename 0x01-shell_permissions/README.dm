@@ -1,1 +1,1 @@
-Shell permissions
+C-x u
